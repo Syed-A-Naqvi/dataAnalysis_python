@@ -1,0 +1,34 @@
+\documentclass{article}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{graphicx}
+
+\begin{document}
+
+\begin{enumerate}[label=(\alph*), left=0pt, itemsep=10pt]
+    \item \begin{minipage}[t]{\linewidth}
+        This is the first paragraph of the item, which can contain text, figures, equations, etc.
+
+        \begin{equation}
+            E=mc^2
+        \end{equation}
+
+        \begin{align}
+            x &= y + z \\
+            a &= b + c
+        \end{align}
+
+    \end{minipage}
+    
+    \item \begin{minipage}[t]{\linewidth}
+        This is the second item with its own paragraph.
+
+        \begin{equation}
+            F=ma
+        \end{equation}
+
+        More text and content here.
+    \end{minipage}
+\end{enumerate}
+
+\end{document}

@@ -1,0 +1,73 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage[top=0.5in, bottom=0.5in, left=1in, right=1in]{geometry}
+
+\begin{document}
+
+    \begin{algorithm}
+        \caption{Check if a vertex can be added}
+        \begin{algorithmic}[1]
+            \Function{IsSafe}{$v$, $A$, $path$, $pos$, $visited$}
+                \If{$A[path[pos - 1]][v] = 0$}
+                    \State \Return $False$
+                \EndIf
+                \If{$visited[v]$}
+                    \State \Return $False$
+                \EndIf
+                \State \Return $True$
+            \EndFunction
+        \end{algorithmic}
+    \end{algorithm}
+
+    \begin{algorithm}
+        \caption{Main Calling Function}
+        \begin{algorithmic}[1]
+        \Function{HamCycle}{$A$}
+            \State $path \gets [0]$
+            \State $visited \gets$ array of $False$ of length $len(A)$
+            \State $visited[0] \gets True$
+            \If{\textbf{not} \Call{FindHamCycle}{$A$, $1$, $path$, $visited$}}
+                \State print("No Hamiltonian Cycle possible")
+            \EndIf
+        \EndFunction
+        \end{algorithmic}
+    \end{algorithm}
+        
+    \begin{algorithm}
+        \caption{Find Hamiltonian Cycles in a Graph}
+        \begin{algorithmic}[1]
+        \Function{FindHamCycle}{$A$, $pos$, $path$, $visited$}
+            \If{$pos = len(A)$}
+                \If{$A[path[-1]][path[0]] \neq 0$}
+                    \State add $0$ to $path$
+                    \State print path
+                    \State remove last element from $path$
+                    \State \Return $True$
+                \Else
+                    \State \Return $False$
+                \EndIf
+            \EndIf
+            \State $found \gets False$
+            \For{$v$ in range($len(A)$)}
+                \If{\Call{IsSafe}{$v$, $A$, $path$, $pos$, $visited$}}
+                    \State add $v$ to $path$
+                    \State $visited[v] \gets True$
+                    \If{\Call{FindHamCycle}{$A$, $pos + 1$, $path$, $visited$}}
+                        \State $found \gets True$
+                    \EndIf
+                    \State $visited[v] \gets False$
+                    \State remove last element from $path$
+                \EndIf
+            \EndFor
+            \State \Return $found$
+        \EndFunction
+        \end{algorithmic}
+        \end{algorithm}
+        
+
+\end{document}

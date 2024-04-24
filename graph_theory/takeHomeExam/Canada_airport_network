@@ -1,0 +1,388 @@
+Akulivik,Ivujivik
+Akulivik,Puvirnituq
+Ivujivik,Salluit
+Puvirnituq,La Grande Riviere
+Puvirnituq,Inukjuak
+Puvirnituq,Quujjuaq
+Quujjuaq,Kangirsuk
+Quujjuaq,Schefferville
+Quujjuaq,Inukjuak
+Quujjuaq,Aupaluk
+Quujjuaq,Tasiujaq
+Quujjuaq,Kuujjuarapik
+Quujjuaq,Iqaluit
+Quujjuaq,Montreal
+La Grande Riviere,Kuujjuarapik
+La Grande Riviere,Montreal
+Kuujjuarapik,Inukjuak
+Kuujjuarapik,Sanikiluaq
+Kuujjuarapik,Umiujaq
+Kuujjuarapik,Montreal
+Kuujjuarapik,Rouyn
+Kuujjuarapik,Chisasibi
+Montreal,Quebec
+Montreal,Rouyn
+Montreal,Baie Comeau
+Montreal,Bagotville
+Montreal,Edmonton
+Montreal,Fredericton
+Montreal,Halifax
+Montreal,Ottawa
+Montreal,Moncton
+Montreal,St. John
+Montreal,Toronto
+Montreal,Val D'or
+Montreal,Vancouver
+Montreal,Winnipeg
+Montreal,Calgary
+Montreal,Charlottetown
+Montreal,St. John's
+Montreal,Mont Joli
+Montreal,Sept-iles
+Montreal,Bathurst
+Montreal,Wabush
+Montreal,Chibougamau
+Inukjuak,Umiujaq
+Sanikiluaq,Umiujaq
+Sanikiluaq,Winnipeg
+Rouyn,Val D'or
+Salluit,Kangiqsujuaq
+Kangirsuk,Aupaluk
+Kangirsuk,Quaqtaq
+Aupaluk,Tasiujaq
+Quaqtaq,Kangiqsujuaq
+Schefferville,Quebec
+Schefferville,Wabush
+Schefferville,Sept-iles
+Quebec,Gaspe
+Quebec,Ottawa
+Quebec,Toronto
+Quebec,Sept-iles
+Quebec,Baie Comeau
+Quebec,Bagotville
+Quebec,Iles De La Madeleine
+Quebec,Bonaventure
+Quebec,Wabush
+Quebec,Mont Joli
+Wabush,Sept-iles
+Wabush,Goose Bay
+Wabush,Baie Comeau
+Wabush,Bagotville
+Wabush,Bonaventure
+Wabush,Charlo
+Wabush,Churchill Falls
+Wabush,Mont Joli
+Sept-iles,Bagotville
+Sept-iles,Havre-Saint-Pierre
+Sept-iles,Mont Joli
+Sept-iles,Natashquan
+Sept-iles,Port Menier
+Resolute,Arctic Bay
+Edmonton,Whitehorse
+Edmonton,Calgary
+Edmonton,Yellowknife
+Edmonton,High Level
+Edmonton,Rainbow Lake
+Edmonton,Fort Saint John
+Edmonton,Fort Mcmurray
+Edmonton,Ottawa
+Edmonton,Regina
+Edmonton,Grande Prairie
+Edmonton,Vancouver
+Edmonton,Winnipeg
+Edmonton,Saskatoon
+Edmonton,Toronto
+Edmonton,Hay River
+Edmonton,Fort Smith
+Edmonton,Hamilton
+Edmonton,Kelowna
+Edmonton,Comox
+Edmonton,Abbotsford
+Edmonton,Victoria
+Whitehorse,Kelowna
+Whitehorse,Vancouver
+Whitehorse,Calgary
+Whitehorse,Yellowknife
+Kelowna,Vancouver
+Kelowna,Cranbrook
+Kelowna,Prince George
+Kelowna,Calgary
+Kelowna,Red Deer Industrial
+Kelowna,Victoria
+Kelowna,Toronto
+Vancouver,Bella Coola
+Vancouver,Anahim Lake
+Vancouver,Campbell River
+Vancouver,Comox
+Vancouver,Williams Lake
+Vancouver,Cranbrook
+Vancouver,Victoria
+Vancouver,Port Hardy
+Vancouver,Dawson Creek
+Vancouver,Kamloops
+Vancouver,Quesnel
+Vancouver,Nanaimo
+Vancouver,Castlegar
+Vancouver,Fort Mcmurray
+Vancouver,Ottawa
+Vancouver,Regina
+Vancouver,Winnipeg
+Vancouver,Saskatoon
+Vancouver,Fort Saint John
+Vancouver,Prince George
+Vancouver,Terrace
+Vancouver,Calgary
+Vancouver,Smithers
+Vancouver,Toronto
+Ottawa,Yellowknife
+Ottawa,Iqaluit
+Ottawa,Fredericton
+Ottawa,Halifax
+Ottawa,Moncton
+Ottawa,Winnipeg
+Ottawa,London
+Ottawa,Calgary
+Ottawa,St. John's
+Ottawa,Toronto
+Yellowknife,Cambridge Bay
+Yellowknife,Coppermine
+Yellowknife,Gjoa Haven
+Yellowknife,Rankin Inlet
+Yellowknife,Norman Wells
+Yellowknife,Spence Bay
+Yellowknife,Hay River
+Yellowknife,Calgary
+Yellowknife,Deline
+Yellowknife,Fort Smith
+Calgary,Prince George
+Calgary,Castlegar
+Calgary,Kamloops
+Calgary,Fort Mcmurray
+Calgary,Red Deer Industrial
+Calgary,Regina
+Calgary,Grande Prairie
+Calgary,Winnipeg
+Calgary,Cranbrook
+Calgary,Saskatoon
+Calgary,Victoria
+Calgary,Toronto
+Calgary,Nanaimo
+Calgary,Hamilton
+Calgary,Halifax
+Calgary,Windsor
+Calgary,Comox
+Calgary,Fort Saint John
+Calgary,London
+Calgary,Abbotsford
+Baker Lake,Chesterfield Inlet
+Baker Lake,Whale Cove
+Baker Lake,Rankin Inlet
+Baker Lake,Repulse Bay
+Chesterfield Inlet,Rankin Inlet
+Chesterfield Inlet,Coral Harbour
+Whale Cove,Eskimo Point
+Whale Cove,Rankin Inlet
+Cambridge Bay,Coppermine
+Cambridge Bay,Spence Bay
+Cambridge Bay,Gjoa Haven
+Coppermine,Holman Island
+Spence Bay,Gjoa Haven
+Rankin Inlet,Iqaluit
+Rankin Inlet,Eskimo Point
+Rankin Inlet,Repulse Bay
+Rankin Inlet,Churchill
+Rankin Inlet,Coral Harbour
+Rankin Inlet,Winnipeg
+Rankin Inlet,Thompson
+Clyde River,Iqaluit
+Clyde River,Pond Inlet
+Iqaluit,Igloolik
+Iqaluit,Cape Dorset
+Iqaluit,Hall Beach
+Iqaluit,Pangnirtung
+Iqaluit,Arctic Bay
+Pond Inlet,Igloolik
+Eskimo Point,Churchill
+Churchill,Thompson
+Churchill,Winnipeg
+Inuvik,Norman Wells
+Inuvik,Holman Island
+Inuvik,Sachs Harbour
+Inuvik,Fort Good Hope
+Norman Wells,Fort Good Hope
+Norman Wells,Tulita
+Igloolik,Hall Beach
+Cape Dorset,Coral Harbour
+Repulse Bay,Coral Harbour
+Thompson,Flin Flon
+Thompson,Gillam
+Thompson,The Pas
+Thompson,Winnipeg
+Winnipeg,Regina
+Winnipeg,Thunder Bay
+Winnipeg,Saskatoon
+Winnipeg,Toronto
+Winnipeg,The Pas
+Winnipeg,Kenora
+Winnipeg,Red Lake
+Winnipeg,Flin Flon
+Winnipeg,Gillam
+Winnipeg,London
+Holman Island,Sachs Harbour
+Hay River,Fort Smith
+Bella Coola,Anahim Lake
+Campbell River,Comox
+Campbell River,Bella Bella
+Bella Bella,Port Hardy
+Williams Lake,Quesnel
+Victoria,Toronto
+Dawson Creek,Fort Nelson
+Fort Nelson,Fort Saint John
+Fort Nelson,Prince George
+High Level,Rainbow Lake
+Fort Saint John,Prince George
+Kamloops,Prince George
+Prince George,Terrace
+Prince George,Smithers
+Terrace,Smithers
+Sault Sainte Marie,Toronto
+Sault Sainte Marie,Thunder Bay
+Sault Sainte Marie,Sudbury
+Toronto,Deer Lake
+Toronto,Fredericton
+Toronto,Halifax
+Toronto,Fort Mcmurray
+Toronto,Windsor
+Toronto,Moncton
+Toronto,Regina
+Toronto,Thunder Bay
+Toronto,Sydney
+Toronto,Sudbury
+Toronto,St. John
+Toronto,Timmins
+Toronto,Saskatoon
+Toronto,London
+Toronto,North Bay
+Toronto,Charlottetown
+Toronto,St. John's
+Baie Comeau,Mont Joli
+Mont Joli,Bonaventure
+Deer Lake,Halifax
+Deer Lake,Goose Bay
+Deer Lake,St. John's
+Deer Lake,Stephenville
+Deer Lake,Red Lake
+Deer Lake,Pikangikum
+Deer Lake,Sandy Lake
+Halifax,Fredericton
+Halifax,Moncton
+Halifax,Gander
+Halifax,Sydney
+Halifax,St. John
+Halifax,Charlottetown
+Halifax,Goose Bay
+Halifax,St. John's
+Halifax,Charlo
+Halifax,Hamilton
+Goose Bay,Gander
+Goose Bay,St. John's
+Goose Bay,St. Anthony
+Goose Bay,Lourdes-De-Blanc-Sablon
+Goose Bay,Postville
+Goose Bay,Churchill Falls
+Goose Bay,Rigolet
+St. John's,Gander
+St. John's,St. Anthony
+St. John's,Stephenville
+Fort Mcmurray,Fort Chipewyan
+Fort Mcmurray,Red Deer Industrial
+Gaspe,Iles De La Madeleine
+Iles De La Madeleine,Bonaventure
+Moncton,Hamilton
+Thunder Bay,Fort Frances
+Thunder Bay,Dryden
+Thunder Bay,Timmins
+Thunder Bay,Sioux Lookout
+Thunder Bay,Sudbury
+Thunder Bay,Kapuskasing
+Thunder Bay,Fort Hope
+Thunder Bay,Pickle Lake
+Thunder Bay,Webequie
+Sudbury,Timmins
+Sudbury,North Bay
+Timmins,Kapuskasing
+Timmins,Moosonee
+Val D'or,Waskaganish
+Val D'or,Chisasibi
+Bathurst,Bonaventure
+Tulita,Deline
+Fort Smith,Fort Chipewyan
+Fort Frances,Kenora
+Fort Frances,Sioux Lookout
+Kenora,Dryden
+Flin Flon,The Pas
+Dryden,Red Lake
+Dryden,Sioux Lookout
+Red Lake,Sioux Lookout
+Red Lake,Keewaywin
+Red Lake,Poplar Hill
+Red Lake,North Spirit Lake
+Red Lake,Pikangikum
+Red Lake,Sandy Lake
+Sioux Lookout,Kingfisher Lake
+Sioux Lookout,Muskrat Dam
+Sioux Lookout,Summer Beaver
+Sioux Lookout,Wunnumin Lake
+Sioux Lookout,Bearskin Lake
+Sioux Lookout,Kasabonika
+Sioux Lookout,Cat Lake
+Sioux Lookout,Fort Severn
+Sioux Lookout,Pikangikum
+Sioux Lookout,Big Trout Lake
+Sioux Lookout,Angling Lake
+Sioux Lookout,Sachigo Lake
+Sioux Lookout,Round Lake
+Sioux Lookout,Sandy Lake
+Havre-Saint-Pierre,Port Menier
+St. Anthony,Lourdes-De-Blanc-Sablon
+Lourdes-De-Blanc-Sablon,St-Augustin
+Hopedale,Makkovik
+Hopedale,Postville
+Makkovik,Postville
+Makkovik,Rigolet
+Natashquan,Chevery
+St-Augustin,Chevery
+St-Augustin,La Tabatière
+Chevery,Tête-à-la-Baleine
+Tête-à-la-Baleine,La Tabatière
+Keewaywin,Sandy Lake
+Kingfisher Lake,Wunnumin Lake
+Wunnumin Lake,Summer Beaver
+Muskrat Dam,Bearskin Lake
+Muskrat Dam,Sachigo Lake
+Muskrat Dam,Round Lake
+Bearskin Lake,Angling Lake
+Bearskin Lake,Big Trout Lake
+Round Lake,Cat Lake
+Angling Lake,Big Trout Lake
+Angling Lake,Fort Severn
+Big Trout Lake,Kasabonika
+Big Trout Lake,Fort Severn
+Fort Hope,Lansdowne House
+Lansdowne House,Webequie
+Poplar Hill,North Spirit Lake
+Poplar Hill,Pikangikum
+North Spirit Lake,Pikangikum
+Webequie,Pickle Lake
+Pikangikum,Sandy Lake
+Attawapiskat,Kashechewan
+Kashechewan,Fort Albany
+Fort Albany,Moosonee
+Moosonee,Waskaganish
+Chisasibi,Waskaganish
+Chisasibi,Wemindji
+Waskaganish,Chibougamau
+Waskaganish,Nemiscau
+Waskaganish,Eastmain River
+Chibougamau,Nemiscau
+Eastmain River,Wemindji
